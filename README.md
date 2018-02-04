@@ -5,6 +5,8 @@
 2. [ ] Do the world's highest bungee jumping.
 3. [ ] Work abroad.
 4. [ ] Get tatoos.
-5. [ ] Get my ears pierced.
-6. [ ] Start my own business.
+5. [ ] Get your ears pierced.
+6. [ ] Start your own business.
 7. [ ] Marry the most beautiful woman in the world.
+8. [ ] Have kids
+9. [ ] Run a marathon
