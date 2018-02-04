@@ -4,3 +4,5 @@
 1. [x] Ride a baloon in Cappadocia, Turkey.
 2. [ ] Do the world's highest bungee jumping.
 3. [ ] Work abroad.
+4. [ ] Get tatoos.
+5. [ ] Get your ears pierced.
