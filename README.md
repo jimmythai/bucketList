@@ -5,4 +5,5 @@
 2. [ ] Do the world's highest bungee jumping.
 3. [ ] Work abroad.
 4. [ ] Get tatoos.
-5. [ ] Get your ears pierced.
+5. [ ] Get my ears pierced.
+6. [ ] Start my own business.
