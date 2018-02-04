@@ -8,5 +8,5 @@
 5. [ ] Get your ears pierced.
 6. [ ] Start your own business.
 7. [ ] Marry the most beautiful woman in the world.
-8. [ ] Have kids
-9. [ ] Run a marathon
+8. [ ] Have kids.
+9. [ ] Run a marathon.
