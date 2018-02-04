@@ -3,4 +3,4 @@
 
 1. [x] Ride a baloon in Cappadocia, Turkey
 2. [ ] Do the world's highest bungee jumping
-3. [ ] 
+3. [ ] g
