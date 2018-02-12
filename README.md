@@ -10,3 +10,4 @@
 7. [ ] Marry the most beautiful woman in the world.
 8. [ ] Have kids.
 9. [ ] Run a marathon.
+10. [ ] Join the Budapest Bath Sparty
