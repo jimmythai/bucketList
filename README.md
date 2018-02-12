@@ -10,6 +10,7 @@
 7. [ ] Marry the most beautiful woman in the world.
 8. [ ] Have kids.
 9. [ ] Run a marathon.
-10. [ ] Join the Budapest Bath Sparty
+10. [ ] Join the Budapest Bath Sparty.
 11. [ ] Join La Tomatina, which I couldn't join because of an incident.
-12. [ ] Join Amnesia Ibiza Foam Party
+12. [ ] Join Amnesia Ibiza Foam Party.
+13. [x] Float in the Dead Sea.
