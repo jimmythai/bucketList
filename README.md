@@ -17,9 +17,11 @@
 14. [ ] See the northern lights.
 15. [ ] Go skydiving.
 16. [x] Ride a camel.
-17. [ ] Watch Olympics Games.
+17. [ ] Watch the Olympics Games.
 18. [ ] Travel around the world.
 19. [ ] Enjoy the Blue Lagoon.
 20. [ ] Travel down through Africa.
 21. [ ] Travel across America.
 22. [ ] Enjoy Oktoberfest in Munich.
+23. [ ] See Salar de Uyuni.
+24. [x] Bathe in the Ganges river.
