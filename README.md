@@ -28,5 +28,5 @@
 25. [ ] Swim the Amazon river.
 26. [ ] Walk the Great Wall of China.
 27. [ ] See Pirámides de Egipto.
-28. [ ] See Cathedral of Justo and Meet Justo Gallego Martínez.
+28. [x] See Cathedral of Justo and Meet Justo Gallego Martínez.
 
