@@ -25,3 +25,4 @@
 22. [ ] Enjoy Oktoberfest in Munich.
 23. [ ] See Salar de Uyuni.
 24. [x] Bathe in the Ganges river.
+25. [ ] Swim the Amazon river.
