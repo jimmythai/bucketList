@@ -26,3 +26,5 @@
 23. [ ] See Salar de Uyuni.
 24. [x] Bathe in the Ganges river.
 25. [ ] Swim the Amazon river.
+26. [ ] Walk the Great Wall of China.
+27. [ ] See Pirámides de Egipto.
