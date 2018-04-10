@@ -31,3 +31,4 @@
 28. [x] See the Cathedral of Justo and Meet Justo Gallego Martínez.
 29. [ ] Visit the Museo de las Momias de Guanajuato
 30. [ ] Visit the Siriraj Medical Museum
+31. [ ] Join Holi
