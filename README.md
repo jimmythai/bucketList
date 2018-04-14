@@ -29,6 +29,7 @@
 26. [ ] Walk the Great Wall of China.
 27. [ ] See Pirámides de Egipto.
 28. [x] See the Cathedral of Justo and Meet Justo Gallego Martínez.
-29. [ ] Visit the Museo de las Momias de Guanajuato
-30. [ ] Visit the Siriraj Medical Museum
-31. [ ] Join Holi
+29. [ ] Visit the Museo de las Momias de Guanajuato.
+30. [ ] Visit the Siriraj Medical Museum.
+31. [ ] Join Holi.
+32. [ ] See northern lights.
